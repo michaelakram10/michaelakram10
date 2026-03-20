@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  [cite_start]<b>Transforming complex data into intelligent solutions through NLP, Deep Learning, and Scalable Cloud Architectures.</b> [cite: 9, 10]
+  <b>Transforming complex data into intelligent solutions through NLP, Deep Learning, and Scalable Cloud Architectures.</b>
 </p>
 
 <p align="center">
@@ -18,10 +18,10 @@
 
 ### 🚀 About Me
 
-- [cite_start]🔭 **Currently at DEPI:** Developing Generative AI models and neural architectures for advanced text summarization. [cite: 17]
-- [cite_start]☁️ **Cloud Specialist:** Managed infrastructure for 10+ apps using AWS, Kubernetes, and Terraform during my time at NTI. [cite: 17]
-- [cite_start]🤖 **NLP Enthusiast:** Fine-tuning Transformer-based models like BERT and AraBERT for real-world impact. [cite: 21, 49]
-- [cite_start]🎓 **Education:** Smart Systems Engineering student at Helwan National University (GPA: 3.58). [cite: 14, 15]
+- 🔭 **Currently at DEPI:** Developing Generative AI models and neural architectures for advanced text summarization.
+- ☁️ **Cloud Specialist:** Managed infrastructure for 10+ apps using AWS, Kubernetes, and Terraform during my time at NTI.
+- 🤖 **NLP Enthusiast:** Fine-tuning Transformer-based models like BERT and AraBERT for real-world impact.
+- 🎓 **Education:** Smart Systems Engineering student at Helwan National University (GPA: 3.58).
 
 ---
 
@@ -29,19 +29,19 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **AI / Machine Learning** | [cite_start]Python, PyTorch, TensorFlow, Scikit-Learn, Pandas, OpenCV [cite: 48, 49] |
-| **NLP & GenAI** | [cite_start]Transformers (BERT, AraBERT), Prompt Engineering, Fine-Tuning [cite: 21, 49] |
-| **Cloud & DevOps** | [cite_start]AWS (EC2, S3, Lambda), Docker, Kubernetes, Terraform, CloudFormation [cite: 11, 17] |
-| **Full-Stack Development** | [cite_start]Django, Flask, Node.js, React, Bootstrap, PostgreSQL, MongoDB [cite: 24, 26, 48] |
-| **Mobile & Other** | [cite_start]Flutter, Firebase, Git, Linux, C++, Java [cite: 11, 48] |
+| **AI / Machine Learning** | Python, PyTorch, TensorFlow, Scikit-Learn, Pandas, OpenCV |
+| **NLP & GenAI** | Transformers (BERT, AraBERT), Prompt Engineering, Fine-Tuning |
+| **Cloud & DevOps** | AWS (EC2, S3, Lambda), Docker, Kubernetes, Terraform, CloudFormation |
+| **Full-Stack Development** | Django, Flask, Node.js, React, Bootstrap, PostgreSQL, MongoDB |
+| **Mobile & Other** | Flutter, Firebase, Git, Linux, C++, Java |
 
 ---
 
 ### 🌟 Featured Project: EduGen
 **AI-Powered Automated Exam & Analytics Platform**
-- [cite_start]**Core:** Developed an end-to-end pipeline for automated exam generation and grading using **AraBERT** and **Generative NLP**. [cite: 21, 51]
-- [cite_start]**Analytics:** Integrated student performance analytics to provide data-driven academic insights. [cite: 10]
-- [cite_start]**Deployment:** Architected a scalable backend using **Flask** and **AWS** to handle real-time processing. [cite: 22]
+- **Core:** Developed an end-to-end pipeline for automated exam generation and grading using **AraBERT** and **Generative NLP**.
+- **Analytics:** Integrated student performance analytics to provide data-driven academic insights.
+- **Deployment:** Architected a scalable backend using **Flask** and **AWS** to handle real-time processing.
 
 ---
 
@@ -61,9 +61,9 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  [cite_start]<a href="https://linkedin.com/in/michael-akram-n/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> [cite: 7]
-  [cite_start]<a href="mailto:akrammichael10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> [cite: 3]
-  [cite_start]<a href="https://michaelakram10.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> [cite: 6]
+  <a href="https://linkedin.com/in/michael-akram-n/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akrammichael10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://michaelakram10.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 <p align="center">
