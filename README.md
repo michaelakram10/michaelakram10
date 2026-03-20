@@ -1,35 +1,71 @@
 <h1 align="center">Hi 👋, I'm Michael Akram</h1>
-<h3 align="center">AI, Machine Learning, and Generative AI Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelakram10&label=Profile%20views&color=0e75b6&style=flat" alt="michaelakram10" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelakram10" alt="michaelakram10" /></a> </p>
-
-- 🔭 I’m currently working on **NLP and Generative AI models for text summarization at DEPI.**
-
-- 🌱 I’m currently learning **Advanced neural architectures and fine-tuning experiments for generative outputs.**
-
-- 👯 I’m looking to collaborate on **Open-source NLP projects or MLOps workflows.**
-
-- 👨‍💻 All of my projects are available at [https://michaelakram10.github.io/Portfolio/](https://michaelakram10.github.io/Portfolio/)
-
-- 💬 Ask me about **Transformer models (BERT, AraBERT), Cloud Infrastructure, or Full-Stack Development.**
-
-- 📫 How to reach me **akrammichael10@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y0eSLHkZb9iXfNKMIIR5rTC8GLXAczWL/view](https://drive.google.com/file/d/1Y0eSLHkZb9iXfNKMIIR5rTC8GLXAczWL/view)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/michael akram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael akram" height="30" width="40" /></a>
-<a href="https://fb.com/michael akram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michael akram" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Engineer-0e75b6?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer" />
+  <img src="https://img.shields.io/badge/GenAI_Specialist-FFD700?style=for-the-badge&logo=google-gemini&logoColor=black" alt="GenAI" />
+  <img src="https://img.shields.io/badge/Cloud_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  [cite_start]<b>Transforming complex data into intelligent solutions through NLP, Deep Learning, and Scalable Cloud Architectures.</b> [cite: 9, 10]
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelakram10&show_icons=true&locale=en&layout=compact" alt="michaelakram10" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=michaelakram10&label=Profile%20views&color=0e75b6&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/michaelakram10?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelakram10&show_icons=true&locale=en" alt="michaelakram10" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelakram10&" alt="michaelakram10" /></p>
+### 🚀 About Me
+
+- [cite_start]🔭 **Currently at DEPI:** Developing Generative AI models and neural architectures for advanced text summarization. [cite: 17]
+- [cite_start]☁️ **Cloud Specialist:** Managed infrastructure for 10+ apps using AWS, Kubernetes, and Terraform during my time at NTI. [cite: 17]
+- [cite_start]🤖 **NLP Enthusiast:** Fine-tuning Transformer-based models like BERT and AraBERT for real-world impact. [cite: 21, 49]
+- [cite_start]🎓 **Education:** Smart Systems Engineering student at Helwan National University (GPA: 3.58). [cite: 14, 15]
+
+---
+
+### 🛠️ Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI / Machine Learning** | [cite_start]Python, PyTorch, TensorFlow, Scikit-Learn, Pandas, OpenCV [cite: 48, 49] |
+| **NLP & GenAI** | [cite_start]Transformers (BERT, AraBERT), Prompt Engineering, Fine-Tuning [cite: 21, 49] |
+| **Cloud & DevOps** | [cite_start]AWS (EC2, S3, Lambda), Docker, Kubernetes, Terraform, CloudFormation [cite: 11, 17] |
+| **Full-Stack Development** | [cite_start]Django, Flask, Node.js, React, Bootstrap, PostgreSQL, MongoDB [cite: 24, 26, 48] |
+| **Mobile & Other** | [cite_start]Flutter, Firebase, Git, Linux, C++, Java [cite: 11, 48] |
+
+---
+
+### 🌟 Featured Project: EduGen
+**AI-Powered Automated Exam & Analytics Platform**
+- [cite_start]**Core:** Developed an end-to-end pipeline for automated exam generation and grading using **AraBERT** and **Generative NLP**. [cite: 21, 51]
+- [cite_start]**Analytics:** Integrated student performance analytics to provide data-driven academic insights. [cite: 10]
+- [cite_start]**Deployment:** Architected a scalable backend using **Flask** and **AWS** to handle real-time processing. [cite: 22]
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaelakram10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelakram10&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelakram10&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  [cite_start]<a href="https://linkedin.com/in/michael-akram-n/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> [cite: 7]
+  [cite_start]<a href="mailto:akrammichael10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> [cite: 3]
+  [cite_start]<a href="https://michaelakram10.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> [cite: 6]
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=michaelakram10&theme=tokyonight&margin-w=15&column=4" alt="trophies" />
+</p>
